@@ -1,2 +1,4 @@
 This is File C
-change is made
+make a change
+ONE MORE Change
+chnage for squash merge
